@@ -15,3 +15,11 @@ Senna van Santen
 ik heb wat programmeer taal geleerd
 ik wist al oor somige dingen zoals html de basis
 javascript en meer talen
+
+
+Ahmad Almoustafa
+##  ik heb programeren geleerd
+
+# ik wist al basic coding
+
+# Meerdere code talen
